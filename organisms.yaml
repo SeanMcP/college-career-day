@@ -1,0 +1,43 @@
+organisms:
+  # mammal
+  - id: 1
+    age_in_hours: 105120
+    blood_temperature: 'warm'
+    habitat: 'land'
+    lays_eggs: false
+  # bird
+  - id: 2
+    age_in_hours: 84096
+    blood_temperature: 'warm'
+    habitat: 'land'
+    lays_eggs: true
+  # fish
+  - id: 3
+    age_in_hours: 35040
+    blood_temperature: 'cold'
+    habitat: 'water'
+    lays_eggs: true
+  # reptile
+  - id: 4
+    age_in_hours: 13140
+    blood_temperature: 'cold'
+    habitat: 'land'
+    lays_eggs: true
+  # mammal
+  - id: 5
+    age_in_hours: 99676
+    blood_temperature: 'warm'
+    habitat: 'land'
+    lays_eggs: false
+  # fish
+  - id: 6
+    age_in_hours: 6554
+    blood_temperature: 'cold'
+    habitat: 'water'
+    lays_eggs: true
+  # amphibian
+  - id: 7
+    age_in_hours: 6745
+    blood_temperature: 'cold'
+    habitat: 'mixed'
+    lays_eggs: true
