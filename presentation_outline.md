@@ -22,8 +22,13 @@ Lesson
   - Little robot that does something
   - Takes in (input), gives out (output)
 - Function example
-```js
-function areaOfSquare(sideLength) {
-    return sideLength * sideLength;
-}
 ```
+function area_of_square
+    in: side_length
+    out: side_length * side_length
+```
+
+I do
+- Sorting with if
+- Additional conditionals
+- Sorting shapes
