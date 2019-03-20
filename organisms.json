@@ -1,49 +1,49 @@
 [{
         "id": 1,
-        "age_in_hours": 105120,
-        "blood_temperature": "warm",
+        "age": 105120,
+        "blood_temp": "warm",
         "habitat": "land",
         "lays_eggs": false
     },
     {
         "id": 2,
-        "age_in_hours": 84096,
-        "blood_temperature": "warm",
+        "age": 84096,
+        "blood_temp": "warm",
         "habitat": "land",
         "lays_eggs": true
     },
     {
         "id": 3,
-        "age_in_hours": 35040,
-        "blood_temperature": "cold",
+        "age": 35040,
+        "blood_temp": "cold",
         "habitat": "water",
         "lays_eggs": true
     },
     {
         "id": 4,
-        "age_in_hours": 13140,
-        "blood_temperature": "cold",
+        "age": 13140,
+        "blood_temp": "cold",
         "habitat": "land",
         "lays_eggs": true
     },
     {
         "id": 5,
-        "age_in_hours": 99676,
-        "blood_temperature": "warm",
+        "age": 99676,
+        "blood_temp": "warm",
         "habitat": "land",
         "lays_eggs": false
     },
     {
         "id": 6,
-        "age_in_hours": 6554,
-        "blood_temperature": "cold",
+        "age": 6554,
+        "blood_temp": "cold",
         "habitat": "water",
         "lays_eggs": true
     },
     {
         "id": 7,
-        "age_in_hours": 6745,
-        "blood_temperature": "cold",
+        "age": 6745,
+        "blood_temp": "cold",
         "habitat": "mixed",
         "lays_eggs": true
     }
